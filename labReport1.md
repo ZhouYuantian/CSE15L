@@ -1,3 +1,4 @@
+                           CSE15L Lab Report1
 Thid bolg is going to guild you how to access UCSD server via terminal in VSCODE.
 First thing is to install VSCODE:https://code.visualstudio.com/
 After you install, open it and you should see a page like this:
