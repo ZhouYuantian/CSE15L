@@ -12,7 +12,7 @@ then, you can input the command line code in the terminal.
 ## Remotly Connecting
 Now, you may need to install [openSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) for remote connecting: 
 After openSSH setup, you can try the command:
-![image](https://user-images.githubusercontent.com/46364362/149472737-dff43ddf-8d76-4b83-9b23-50f16388e907.png)
+····$ ssh cs15lsp22zz@ieng6.ucsd.edu
 where zz should replace by your course specfic account.
 type in your password and you will recieve a message aking you confirm, type "yes" and press Enter.
 ![image](https://user-images.githubusercontent.com/46364362/149473631-08610ae9-bf3e-4fde-94d5-60c4dac232d1.png)
