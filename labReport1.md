@@ -89,3 +89,4 @@ $ ssh cs15lsp22zz@ieng6.ucsd.edu "ls"
 ```
 
 quote the commands you want to run at the end of the ssh sentence. this will let you run the command in the server but without login.
+It save a lot of keystrokes since you don't need to type in your password right now, and you don't need to exit after that command ran.
