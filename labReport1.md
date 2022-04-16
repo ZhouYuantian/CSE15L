@@ -7,7 +7,7 @@ After you install, open it and you should see a page like this:
 clike the "terminal" on the tool bar and then you can access the terminal like this:
 ![image](https://user-images.githubusercontent.com/46364362/149471279-3dea224c-896c-48c9-88e3-2c4e8b4147c3.png)
 then, you can input the command line code in the terminal.
-Now, you may need to install [openSSH]https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse for remote connecting: 
+Now, you may need to install [openSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) for remote connecting: 
 After openSSH setup, you can try the command:
 ![image](https://user-images.githubusercontent.com/46364362/149472737-dff43ddf-8d76-4b83-9b23-50f16388e907.png)
 where zz should replace by your course specfic account.
