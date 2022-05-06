@@ -1,6 +1,6 @@
 
 
-# Streamlining ssh Configuration
+# 1. Streamlining ssh Configuration
 ## My .ssh/config file:
 
 ![image](https://user-images.githubusercontent.com/46364362/167041966-2f4d7e87-4c80-4f7e-adb2-b2e1bad0633f.png)
@@ -15,7 +15,7 @@ This help us login without enter username which is very convinient.
 
 ![image](https://user-images.githubusercontent.com/46364362/167042471-264b3aad-2043-455a-8a4f-b3120a1e80b5.png)
 
-# Setup Github Access from ieng6
+# 2. Setup Github Access from ieng6
 This enable us to commit&push changes to github from server.
 
 ## Public&private key I made stored on Github and in my user account:
@@ -24,7 +24,7 @@ This enable us to commit&push changes to github from server.
 
 ![image](https://user-images.githubusercontent.com/46364362/167066778-83d10b51-5a0f-49ca-b978-71af2c5aca04.png)
 
-# Copy whole directories with scp -r
+# 3. Copy whole directories with scp -r
 This enable us to copy a full directory at once instead repeatly copy the files manually.
 
 ##  Copying whole markdown-parse directory to ieng6 account:
