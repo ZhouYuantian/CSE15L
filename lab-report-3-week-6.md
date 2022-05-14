@@ -28,13 +28,17 @@ This enable us to commit&push changes to github from server.
 This enable us to copy a full directory at once instead repeatly copy the files manually.
 
 ##  Copying whole markdown-parse directory to ieng6 account:
+basicly we just need to enter to the directory and then we can use scp -r command to copy recursively.
 
 ![image](https://user-images.githubusercontent.com/46364362/167072294-be3730c2-4272-46d6-a8b0-cb5280da9aca.png)
 
 ## Login and complie after copy:
+we can run the test right now that we just copy:
 
-![image](https://user-images.githubusercontent.com/46364362/167072597-ebb86f1c-983b-4b9f-9950-167ec3bb5fc6.png)
+![image](https://user-images.githubusercontent.com/46364362/168420069-22001dfc-7487-4151-8fdb-1f850d62b618.png)
+
 
 ## Combining scp, ;, and ssh and complie all in one line:
+This make it even more convinent, we can finish all the thing in one line and without login to the server.
 
-![image](https://user-images.githubusercontent.com/46364362/167075154-681e5122-4d02-411d-8d4a-da21d8ecde90.png)
+![image](https://user-images.githubusercontent.com/46364362/168420086-f609e8bb-1a87-4c3d-86a9-4cb3aed29117.png)
