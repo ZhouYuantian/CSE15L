@@ -2,11 +2,12 @@
 
 # 1. Streamlining ssh Configuration
 ## My .ssh/config file:
+This below is my .ssh/config file and I use Notes to edit it.
 
 ![image](https://user-images.githubusercontent.com/46364362/167041966-2f4d7e87-4c80-4f7e-adb2-b2e1bad0633f.png)
 
 ## logging into my account using just the alias:
-This help us login without enter username which is very convinient.
+This help us login without enter username which is very convinient. We just need to type ssh ieng6 to login rightnow.
 
 ![image](https://user-images.githubusercontent.com/46364362/167042030-97b757e5-778e-41d5-a959-e802e9561216.png)
 
